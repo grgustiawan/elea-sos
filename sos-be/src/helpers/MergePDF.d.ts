@@ -1,0 +1,1 @@
+export declare function mergePDFs(pdfPaths:any, outputPath:string): void;
